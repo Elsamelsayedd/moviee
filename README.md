@@ -2,7 +2,9 @@
 
 # Movie Application
 
-This project is a full-fledged movie browsing application built using **React.js**. The app allows users to browse various movies, including popular, top-rated, trending, and upcoming films. Users can also search for specific movies. The project leverages libraries such as **axios**, **tanstack-query**, **react-router-dom**, **react-loader-spinner**, **react-slick**, and **react-hot-toast**. Styling is done with **Tailwind CSS** and **Flowbite** components.
+This project is a full-fledged movie browsing application built using **React.js**. The app allows users to browse various movies, including popular, top-rated, trending, and upcoming films. Users can also search for specific movies. The project utilizes several libraries such as **axios**, **tanstack-query**, **react-router-dom**, **react-loader-spinner**, **react-slick**, and **react-hot-toast**. Styling is done with **Tailwind CSS** and **Flowbite** components.
+
+This project is a comprehensive movie browsing application built using React.js. The app allows users to explore various movies, including popular, top-rated, trending, and upcoming films. Additionally, users can search for specific movies. The project utilizes several libraries such as axios, TanStack Query, react-router-dom, react-loader-spinner, react-slick, and react-hot-toast. Styling is accomplished with Tailwind CSS and Flowbite components.
 
 ## Features
 
