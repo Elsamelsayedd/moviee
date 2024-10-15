@@ -30,7 +30,7 @@ export default function Search() {
     return (
         <>
 
-            <div className='md:w-1/2 w-[90%]  mx-auto py-6'>
+            <div className='md:w-1/2 w-[90%] ms-11  md:mx-auto py-6'>
                 <form className="py-4 mx-auto">
                     <label htmlFor="default-search" className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white">Search</label>
                     <div className="relative">
